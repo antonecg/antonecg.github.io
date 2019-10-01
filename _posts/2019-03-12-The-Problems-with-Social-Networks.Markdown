@@ -2,7 +2,7 @@
 layout: post
 title:  "The Problems with Social Networks "
 date:   2016-03-12 21:03:36 +0530
-categories: Theory, Social Network
+categories: Theory SocialNetwork
 ---
 Advances in social media have created insular online groups with homogenous beliefs- creating ready-made groups of ‘pure people’ ripe for exploitation by a populist politician.
 To understand the dangers of social networks- we need to understand basic network theory. When allowed to choose groups, we will choose group members like us. This has robust psychology theory behind it, Tajfel and Turner’s 1974 “Social Identity Theory” and it has been replicated since. A 2012 study “Not Like Me = Bad Infants Prefer Those Who Harm Dissimilar Others” in Psychological Science found that even at the tender age of 9 months, humans have a preference towards people like them. This principle has an important implication: We use social media to surround ourselves with people more like us than otherwise. We can now group on interests rather than geography. How does information spread in these homogenous groups?
