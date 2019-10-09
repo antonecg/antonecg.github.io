@@ -6,7 +6,7 @@ title:  "Principles of Good Design"
 
 date:   2019-10-08 22:40:03 -0500
 
-categories: design
+categories: Design
 
 ---
 
