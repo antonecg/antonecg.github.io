@@ -4,6 +4,9 @@ title:  "Your Mind and Body Think Together"
 date:   2017-05-30 22:40:03 -0500
 categories: Theory
 ---
+
+Here are notes on  what I learned about embodied cognition at the London School of Economics.
+
 I’m learning a lot in my course, and the readings for this last week made me rethink a lot about what I thought I knew about cognition. In the US and the UK, I feel like we have a clean break in how we think about mind vs body. This week, professor Frederic Basso introduced me to a completely new way of looking at the mind vs the body- embodied cognition.
 “The main idea underlying all theories of embodied cognition is that cognitive representations and operations are fundamentally grounded in their physical context.” (Niedenthal et all 2005)
 What this means is simple- yet profound. Even when you think of something you’ve never seen before, say an imaginary chair, the neurons that fire in your mind are the neurons that would fire if you were actually sitting on a chair. To an extent, your brain doesn’t differentiate between when you are doing something and when you are thinking about doing it. Our thoughts are intrinsically linked to our physical experiences.
