@@ -2,7 +2,7 @@
 layout: post
 title:  "3 Rules for Automating Complexity"
 date:   2020-05-12 21:03:36 +0530
-categories: Theory SocialNetwork Complexity
+categories: Theory Work Complexity
 ---
 At work, we are paid to make decisions and accomplish complex tasks. However, there is a limit to the complexity that one woman or man can handle. Each of the decisions takes mental energy and after a certain point your choices become worse (Tierney, 2011).
 
