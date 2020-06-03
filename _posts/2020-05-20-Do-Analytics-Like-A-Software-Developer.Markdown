@@ -1,5 +1,3 @@
-**Do Analytics Like a Software Developer**
-
 With all the flashy marketing around analytics, companies convince you that their latest product can do the work itself. The implication is that you can create powerful analytics without having to become a software developer. I disagree. As analytics projects grow complex, Business Intelligence(BI) consultants need to adopt practices from software development. An analytics project incorporating SQL, Analysis Services, and PowerBI, has more in common with a project at Facebook or Google than with the old Excel/Access way of doing BI.
 
 

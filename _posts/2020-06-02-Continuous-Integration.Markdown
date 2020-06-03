@@ -1,4 +1,3 @@
-**Continuous Integration with Azure Devops**
 If you have been working in analytics, you've seen projects blow up. A small change, pushed by you, a partner, or a client can have huge unintended consequences. Users can be left without critical data and you will be stressed trying to figure out what went wrong.
 
 If software development projects worked like that, our iPhones wouldn't work and LinkedIn would probably be down right now. In this article, I will show you a key practice that software developers use to keep project from going wrong: continuous integration. Then I will show you how to set up continuous integration for yourself on an SQL project using Azure DevOps.
